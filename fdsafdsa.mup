@@ -1,0 +1,18 @@
+{
+  "title": "fdsafdsa",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "d",
+      "id": 3
+    }
+  },
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "ich bin ein attachment"
+    },
+    "style": {}
+  }
+}
