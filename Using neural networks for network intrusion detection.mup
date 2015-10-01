@@ -52,6 +52,99 @@
           "id": 5
         }
       }
+    },
+    "-1": {
+      "title": "Zusammenfassung pro Paper",
+      "id": 13,
+      "ideas": {
+        "2": {
+          "title": "KEINE Evaluation",
+          "id": 15
+        },
+        "3": {
+          "title": "Welches Problem versuchen die Autoren zu lösen? ",
+          "id": 27
+        },
+        "4": {
+          "title": "Welche Herangehensweise wählen die Autoren?",
+          "id": 29
+        },
+        "5": {
+          "title": "Welche Ergebnisse wurden erziehlt?",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Wie wurden die Ergebnisse getestet?",
+              "id": 32
+            },
+            "2": {
+              "title": "Welche Schlussfolgerungen ziehen die Autoren?",
+              "id": 35
+            }
+          }
+        },
+        "6": {
+          "title": "Welche verwandte Forschung wird erwähnt?",
+          "id": 33
+        }
+      }
+    },
+    "-2": {
+      "title": "Gesamtevaluation",
+      "id": 22,
+      "ideas": {
+        "1": {
+          "title": "Welche Forschungslücken gibt es in meiner Literatur?",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Welche Forschung wird benötigt?",
+              "id": 24
+            }
+          }
+        },
+        "2": {
+          "title": "Wie sieht der Stand der Technik aus?",
+          "id": 25
+        },
+        "3": {
+          "title": "Wie vergleicht sich das mit Nicht-ANN IDSen?",
+          "id": 26
+        }
+      }
+    },
+    "-12": {
+      "title": "Evaluation pro Paper",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Sind die Ergebnisse glaubhaft?",
+          "id": 18
+        },
+        "2": {
+          "title": "Wurden vernünftige Methoden angewandt?",
+          "id": 19
+        },
+        "3": {
+          "title": "Welche Annahmen wurden getroffen?",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Werden diese ausdrücklich erwähnt?",
+              "id": 21
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          184,
+          199,
+          1
+        ],
+        "style": {}
+      }
     }
-  }
+  },
+  "links": []
 }
