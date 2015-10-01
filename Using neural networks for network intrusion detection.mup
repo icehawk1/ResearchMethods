@@ -38,7 +38,7 @@
               "id": 11
             },
             "5": {
-              "title": "Möglichst wenig verschiedene Datensätze",
+              "title": "Moeglichst wenig verschiedene Datensaetze",
               "id": 12
             }
           }
@@ -53,52 +53,16 @@
         }
       }
     },
-    "-1": {
-      "title": "Zusammenfassung pro Paper",
-      "id": 13,
-      "ideas": {
-        "2": {
-          "title": "KEINE Evaluation",
-          "id": 15
-        },
-        "3": {
-          "title": "Welches Problem versuchen die Autoren zu lösen? ",
-          "id": 27
-        },
-        "4": {
-          "title": "Welche Herangehensweise wählen die Autoren?",
-          "id": 29
-        },
-        "5": {
-          "title": "Welche Ergebnisse wurden erziehlt?",
-          "id": 31,
-          "ideas": {
-            "1": {
-              "title": "Wie wurden die Ergebnisse getestet?",
-              "id": 32
-            },
-            "2": {
-              "title": "Welche Schlussfolgerungen ziehen die Autoren?",
-              "id": 35
-            }
-          }
-        },
-        "6": {
-          "title": "Welche verwandte Forschung wird erwähnt?",
-          "id": 33
-        }
-      }
-    },
     "-2": {
       "title": "Gesamtevaluation",
       "id": 22,
       "ideas": {
         "1": {
-          "title": "Welche Forschungslücken gibt es in meiner Literatur?",
+          "title": "Welche Forschungsluecken gibt es in meiner Literatur?",
           "id": 23,
           "ideas": {
             "1": {
-              "title": "Welche Forschung wird benötigt?",
+              "title": "Welche Forschung wird benoetigt?",
               "id": 24
             }
           }
@@ -122,7 +86,7 @@
           "id": 18
         },
         "2": {
-          "title": "Wurden vernünftige Methoden angewandt?",
+          "title": "Wurden vernuenftige Methoden angewandt?",
           "id": 19
         },
         "3": {
@@ -130,7 +94,7 @@
           "id": 20,
           "ideas": {
             "1": {
-              "title": "Werden diese ausdrücklich erwähnt?",
+              "title": "Werden diese ausdruecklich erwaehnt?",
               "id": 21
             }
           }
@@ -141,6 +105,50 @@
           184,
           199,
           1
+        ],
+        "style": {}
+      }
+    },
+    "0.5": {
+      "title": "Zusammenfassung pro Paper",
+      "id": 13,
+      "ideas": {
+        "2": {
+          "title": "KEINE Evaluation",
+          "id": 15
+        },
+        "3": {
+          "title": "Welches Problem versuchen die Autoren zu loesen? ",
+          "id": 27
+        },
+        "4": {
+          "title": "Welche Herangehensweise waehlen die Autoren?",
+          "id": 29
+        },
+        "5": {
+          "title": "Welche Ergebnisse wurden erziehlt?",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Wie wurden die Ergebnisse getestet?",
+              "id": 32
+            },
+            "2": {
+              "title": "Welche Schlussfolgerungen ziehen die Autoren?",
+              "id": 35
+            }
+          }
+        },
+        "6": {
+          "title": "Welche verwandte Forschung wird erwaehnt?",
+          "id": 33
+        }
+      },
+      "attr": {
+        "position": [
+          54,
+          -242,
+          2
         ],
         "style": {}
       }
