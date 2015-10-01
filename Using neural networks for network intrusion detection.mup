@@ -146,6 +146,10 @@
         "6": {
           "title": "Welche verwandte Forschung wird erwaehnt?",
           "id": 33
+        },
+        "7": {
+          "title": "Wie sieht der Review-Prozess des Journals aus?",
+          "id": 38
         }
       },
       "attr": {
