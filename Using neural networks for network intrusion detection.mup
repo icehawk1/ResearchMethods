@@ -9,11 +9,47 @@
       "ideas": {
         "1": {
           "title": "Welche Kriterien wurden angelegt?",
-          "id": 3
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Autoren bauen ein ANN",
+              "id": 6
+            },
+            "2": {
+              "title": "Autoren evaluieren Erkennungsrate",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "False Positives",
+                  "id": 8
+                },
+                "2": {
+                  "title": "False Negatives",
+                  "id": 9
+                }
+              }
+            },
+            "3": {
+              "title": "Autoren evaluieren Throughput (optional)",
+              "id": 10
+            },
+            "4": {
+              "title": "Autoren messen gegen ein anderes IDS (optional)",
+              "id": 11
+            },
+            "5": {
+              "title": "Möglichst wenig verschiedene Datensätze",
+              "id": 12
+            }
+          }
         },
         "2": {
           "title": "Wie passen die Paper zu den Kriterien?",
           "id": 4
+        },
+        "3": {
+          "title": "Welche Paper wurden verworfen?",
+          "id": 5
         }
       }
     }
