@@ -1,0 +1,21 @@
+{
+  "title": "Using neural networks for network intrusion detection",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Auswahl der Papers",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Welche Kriterien wurden angelegt?",
+          "id": 3
+        },
+        "2": {
+          "title": "Wie passen die Paper zu den Kriterien?",
+          "id": 4
+        }
+      }
+    }
+  }
+}
