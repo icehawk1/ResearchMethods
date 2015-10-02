@@ -40,6 +40,10 @@
             "5": {
               "title": "Moeglichst wenig verschiedene Datensaetze",
               "id": 12
+            },
+            "6": {
+              "title": "Paper sollte so neu wie möglich sein",
+              "id": 43
             }
           }
         },
