@@ -53,6 +53,24 @@
         }
       }
     },
+    "2": {
+      "title": "Introduction",
+      "id": 39,
+      "ideas": {
+        "1": {
+          "title": "Was steht in diesem Survey?",
+          "id": 40
+        },
+        "2": {
+          "title": "Warum ist das Thema relevant?",
+          "id": 41
+        },
+        "3": {
+          "title": "Wenn sollte das Thema interessieren?",
+          "id": 42
+        }
+      }
+    },
     "-2": {
       "title": "Gesamtevaluation",
       "id": 22,
